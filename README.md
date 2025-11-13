@@ -11,7 +11,7 @@ cd skyentific_poclegs
 python -m pip install -e .
 ```
 
-### Installation
+### Use
 - train and play
 ```
 cd berkley-humiod-for-issacLab-0.47.7
