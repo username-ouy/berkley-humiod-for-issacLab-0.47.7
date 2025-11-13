@@ -14,5 +14,6 @@ python -m pip install -e .
 ### Installation
 - train and play
 ```
+cd berkley-humiod-for-issacLab-0.47.7
 sh run_train.sh
 ```
