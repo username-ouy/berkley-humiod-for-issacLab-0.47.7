@@ -7,6 +7,6 @@
 - Using a python interpreter that has Isaac sLab installed, install the library
 
 ```
-cd exts/berkeley_humanoid
+cd skyentific_poclegs
 python -m pip install -e .
 ```
