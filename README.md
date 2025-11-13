@@ -10,3 +10,9 @@
 cd skyentific_poclegs
 python -m pip install -e .
 ```
+
+### Installation
+- train and play
+```
+sh run_train.sh
+```
